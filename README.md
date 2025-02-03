@@ -1,16 +1,38 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sadik Laliwala
-======================================================================================================================================
+<h3 align="center">
+  Welcome to Sadik Laliwala profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-Backend Developer
------------------
+<!-- Typing SVG by darshitdudhaiya - https://github.com/darshitdudhaiya -->
+<p align="center">
+  <a href="https://github.com/sadiklaliwala"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+</p>
 
-* 🌍  I'm based in Ahmedabad, Gujarat, India
-* ✉️  You can contact me at [sadiklaliwala2705@gmail.com](mailto:sadiklaliwala2705@gmail.com)
-* 🧠  I'm learning MERN
-* 🤝  I'm open to collaborating on Any Projects
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://discord.gg/883965686911750145" alt="darshit"><img width="32px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/sadik-laliwala" alt="Sadik"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
-<a href="https://www.github.com/sadiklaliwala" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sadiklaliwala?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<br/>
+
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/darshitdudhaiya -->
+<!-- View counter - https://github.com/darshitdudhaiya -->
+<p align="center">
+  
+  
+  <a href="https://github.com/darshitdudhaiya?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/darshitdudhaiya?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/darshitdudhiya?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/darshitdudhaiya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/darshitdudhaiya/?tab=Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=darshitdudhaiya&style=for-the-badge"/></a>
+</p>
+
+
 
 ### Skills
 
