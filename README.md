@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://discord.gg/883965686911750145" alt="darshit"><img width="32px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/sadik-laliwala" alt="Sadik"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/></a>
+  <a href="https://www.linkedin.com/in/sadik-laliwala-057776288/" alt="Sadik"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
