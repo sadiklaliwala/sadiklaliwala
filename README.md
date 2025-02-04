@@ -8,9 +8,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Always+Try+to+be+a+Better+Self." alt="Typing SVG" /></a>
 </p>
 
+
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discord.gg/883965686911750145" alt="darshit"><img width="32px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/sadik-laliwala-057776288/" alt="Sadik"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
