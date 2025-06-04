@@ -38,6 +38,11 @@
 
 
 
+## 🌐 Portfolio
+
+Check out my portfolio: [sadiklaliwala.dev](https://sadiklaliwala.github.io/)
+
+
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 ## 🛠️ My favorite tools
@@ -144,6 +149,9 @@
                 width="32" height="32" />
         </picture>
     </a>
+  
+
+
 </p>
     
 ### Badges
@@ -158,6 +166,9 @@
   <a href="https://www.instagram.com/sadik_laliwala/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://sadiklaliwala.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue" alt="Portfolio">
+</a>
   
 </div>
 
